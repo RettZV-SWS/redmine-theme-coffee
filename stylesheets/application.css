@@ -11,8 +11,9 @@
 @import url(aristo.css);
 
 #header > h1 {
-	background: url(../images/logo1.png) no-repeat 10px 20%;
-	padding: 5px 60px;
+    background: url(../images/logo1.png) no-repeat 10px 20%;
+    background-size: 100px;
+    padding: 35px 150px;
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio: 2), 
