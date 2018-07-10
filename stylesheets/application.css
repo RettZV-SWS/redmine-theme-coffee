@@ -311,7 +311,7 @@ table.list tr.priority-3 a { color: #559; }
 tr.odd.priority-3 td, tr.even.priority-3 td { border-color: #add7f3; }
 
 
-tr.status-1 { background-color: #FA8072 !important;color: black; }
+tr.status-1 { background-color: #FA8072 !important;color: #000 !important; }
 
 div.box {
 	overflow: auto;
