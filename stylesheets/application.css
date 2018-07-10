@@ -11,7 +11,7 @@
 @import url(aristo.css);
 
 #header > h1 {
-	background: url(../images/logo.png) no-repeat 10px 20%;
+	background: url(../images/logo1.png) no-repeat 10px 20%;
 	padding: 5px 60px;
 }
 
@@ -37,7 +37,7 @@ body {
 #wrapper {
 	background: transparent;
 	margin: 20px auto;
-	max-width: 1240px;
+	max-width: 100%;
 }
 
 
