@@ -18,7 +18,7 @@
 @media only screen and (-webkit-min-device-pixel-ratio: 2), 
 only screen and (min-device-pixel-ratio: 2) {
 	#header > h1 {
-		background-image: url(../images/logo-2x.png);
+		background-image: url(../images/logo1.png);
 		background-size: 43px 30px; 
 	}
 }
