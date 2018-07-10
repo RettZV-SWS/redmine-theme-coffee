@@ -288,9 +288,9 @@ tr.odd.priority-7 td, tr.even.priority-7 td { border-color: #ffb4b4; }
 
 /*High*/
 tr.odd.priority-5, table.list tbody tr.odd.priority-5:hover { color: #000 !important; }
-tr.odd.priority-5 { background: rgb(255, 232, 232); }
+tr.odd.priority-5 { background: #FF6347 ; }
 tr.even.priority-5, table.list tbody tr.even.priority-5:hover { color: #000 !important; }
-tr.even.priority-5 { background: rgb(252, 237, 237); }
+tr.even.priority-5 { background: #FF6347 ; }
 table.list tr.priority-5 a, tr.priority-5:hover a  { color: #000 !important; }
 tr.odd.priority-5 td, tr.even.priority-5 td { border-color: #ffb4b4; }
 
