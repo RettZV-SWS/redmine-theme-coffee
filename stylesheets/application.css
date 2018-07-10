@@ -113,7 +113,7 @@ body {
 
 div#content {
 	padding-top: 20px;
-	margin-right: 25%;
+	margin-right: 15%;
 	margin-bottom: 5px;
 	width: auto;
 	background: #FAFAFA;
@@ -161,6 +161,7 @@ div#content {
 	-webkit-border-image: -webkit-linear-gradient(left, #F3F0E3, #DDD, #F3F0E3) 1 0 100%;
 	-moz-border-image: -moz-linear-gradient(left, #F3F0E3, #DDD, #F3F0E3) 1 0 100%;
 	border-image: linear-gradient(left, #F3F0E3, #DDD, #F3F0E3) 1 0 100%;
+	width: 10%;
 }
 
 #footer {
