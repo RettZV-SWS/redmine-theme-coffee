@@ -119,6 +119,9 @@ div#content {
 	background: #FAFAFA;
 }
 
+tr.status-1 
+{ background-color: red !important;color: #FA8072; }
+
 #main.nosidebar div#content {
 	margin-right: 0px;
 }
