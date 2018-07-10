@@ -279,11 +279,11 @@ box-shadow: inset 0 1px 0 white;
 /* Issues table priority */
 
 /*Immediately*/
-tr.odd.priority-7, table.list tbody tr.odd.priority-7:hover { color: white; font-weight: bold; }
+tr.odd.priority-7, table.list tbody tr.odd.priority-7:hover { color: black; font-weight: bold; }
 tr.odd.priority-7 { background: #FF6347 ; }
-tr.even.priority-7, table.list tbody tr.even.priority-7:hover { color: white; font-weight: bold; }
+tr.even.priority-7, table.list tbody tr.even.priority-7:hover { color: black; font-weight: bold; }
 tr.even.priority-7 { background: #FF6347 ; }
-table.list tr.priority-7 a, tr.priority-7:hover a { color: white; }
+table.list tr.priority-7 a, tr.priority-7:hover a { color: black; }
 tr.odd.priority-7 td, tr.even.priority-7 td { border-color: #ffb4b4; }
 
 /*High*/
@@ -311,7 +311,7 @@ table.list tr.priority-3 a { color: #559; }
 tr.odd.priority-3 td, tr.even.priority-3 td { border-color: #add7f3; }
 
 
-tr.status-1 { background-color: #FA8072 !important;color: white; }
+tr.status-1 { background-color: #FA8072 !important;color: black; }
 
 div.box {
 	overflow: auto;
