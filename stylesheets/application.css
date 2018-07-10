@@ -277,7 +277,7 @@ box-shadow: inset 0 1px 0 white;
 }
 
 /* Issues table priority */
-tr.status-1 { background-color: #FA8072 ;color: #000 !important; }
+tr.status-1 { background-color: #FFE4e1  ;color: #000 !important; }
 /*Immediately*/
 tr.odd.priority-7, table.list tbody tr.odd.priority-7:hover { color: #000 !important; font-weight: bold; }
 tr.odd.priority-7 { background: #FF6347 ; }
@@ -288,9 +288,9 @@ tr.odd.priority-7 td, tr.even.priority-7 td { border-color: #ffb4b4; }
 
 /*High*/
 tr.odd.priority-5, table.list tbody tr.odd.priority-5:hover { color: #000 !important; }
-tr.odd.priority-5 { background: #FF6347 ; }
+tr.odd.priority-5 { background: #F08080  ; }
 tr.even.priority-5, table.list tbody tr.even.priority-5:hover { color: #000 !important; }
-tr.even.priority-5 { background: #FF6347 ; }
+tr.even.priority-5 { background: ##F08080  ; }
 table.list tr.priority-5 a, tr.priority-5:hover a  { color: #000 !important; }
 tr.odd.priority-5 td, tr.even.priority-5 td { border-color: #ffb4b4; }
 
