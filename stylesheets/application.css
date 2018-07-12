@@ -253,6 +253,10 @@ div.details {
 a, a:link, a:visited {
 	color: #008cdd;
 }
+a, a:hover{
+	color: #e31c23;
+}
+
 
 .buttons a, .contextual a, 
 small a, .breadcrumb a,
