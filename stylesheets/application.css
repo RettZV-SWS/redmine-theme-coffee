@@ -124,7 +124,7 @@ body {
 
 div#content {
 	padding-top: 20px;
-	margin-right: 16%;
+	margin-right: 0%;
 	margin-bottom: 5px;
 	width: auto;
 	background: #FAFAFA;
@@ -167,6 +167,8 @@ div#content {
 #sidebar {
 	/*font-family: "HelveticaNeue", Helvetica, Arial, sans-serif;*/
 	padding-right: 0px;
+	padding-left: 10px;
+   	padding-top: 8px;
 	overflow-x: hidden;
 	border-top: 1px solid #DDD;
 	border-bottom: 0px;
