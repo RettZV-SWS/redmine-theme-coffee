@@ -58,11 +58,15 @@ body {
 	position: fixed;
 	left: 0px;
 	right: 0px;
-	padding: 8px 20px 6px;
+	padding: 8px 17px 6px;
 	top: 0px;
 	z-index: 100;
 }
-
+#top-menu a {
+    color: #e31c23;
+    margin-right: 8px;
+    font-weight: bold;
+}
 
 #top-menu #loggedas {
 	margin-top: 1px;
