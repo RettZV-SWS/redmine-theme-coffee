@@ -109,10 +109,7 @@ body {
 	-webkit-font-smoothing: antialiased;
 }
 
-#main-menu li a:hover{
-  color: #e31c23;
-	
-}
+
 
 #main {
 	background: transparent;
@@ -173,6 +170,10 @@ div#content {
 	padding: 5px 10px;
 }
 
+#main-menu li a:hover {
+	  color: #e31c23;
+	
+}
 
 #sidebar {
 	/*font-family: "HelveticaNeue", Helvetica, Arial, sans-serif;*/
