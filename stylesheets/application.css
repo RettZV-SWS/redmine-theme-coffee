@@ -25,15 +25,19 @@ only screen and (min-device-pixel-ratio: 2) {
 }
 
 html {
-	background: #F3F0EB;
+	background: #EEEEE;
+}
+html>body #content {
+    min-height: 800px;
 }
 
+* html body #content { height: 800px; } /* IE */
 body {
 	font-family: Arial, sans-serif;
 	color: #404040;
 	font-weight: normal;
 	margin: 0;
-	background-color:#EBEBEB;
+	background-color:#EEEEEE;
 }
 
 #wrapper {
