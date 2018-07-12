@@ -109,6 +109,11 @@ body {
 	-webkit-font-smoothing: antialiased;
 }
 
+#main-menu li a:hover{
+  color: #e31c23;
+	
+}
+
 #main {
 	background: transparent;
 }
@@ -147,7 +152,7 @@ div#content {
 }
 
 #main-menu li a.selected, #main-menu li a.selected:hover {
-	color: #51a1c4;
+	color: #e31c23;
 	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
 	background: transparent;
 	background: -webkit-linear-gradient(rgba(168, 176, 188, 0.4), rgba(168, 176, 188, 0.15));
