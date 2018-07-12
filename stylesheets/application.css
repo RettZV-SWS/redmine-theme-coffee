@@ -10,6 +10,10 @@
 @import url(buttons.css);
 @import url(aristo.css);
 
+h1, h2, h3, h4 {
+	margin: 0 0 0 0;
+}
+
 #header > h1 {
     background: url(../images/logo1.png) no-repeat 10px 20%;
     background-size: 100px;
@@ -84,7 +88,7 @@ body {
 	background-color: transparent;
 	color: black;
 	height: auto;
-	padding: 25px 0px 0px;
+	padding: 100px 0px 0px;
         background: url(../images/header_redmine.png) no-repeat 0px 60%;
 }
 
