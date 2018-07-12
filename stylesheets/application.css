@@ -136,7 +136,7 @@ div#content {
 }
 
 #main-menu li a.selected, #main-menu li a.selected:hover {
-	color: black;
+	color: #51a1c4;
 	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
 	background: transparent;
 	background: -webkit-linear-gradient(rgba(168, 176, 188, 0.4), rgba(168, 176, 188, 0.15));
@@ -168,6 +168,7 @@ div#content {
 	-moz-border-image: -moz-linear-gradient(left, #F3F0E3, #DDD, #F3F0E3) 1 0 100%;
 	border-image: linear-gradient(left, #F3F0E3, #DDD, #F3F0E3) 1 0 100%;
 	width: 15%;
+	color:black;
 }
 
 #footer {
