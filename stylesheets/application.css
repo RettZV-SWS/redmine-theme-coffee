@@ -175,17 +175,29 @@ div#content {
 
 #sidebar {
 	/*font-family: "HelveticaNeue", Helvetica, Arial, sans-serif;*/
-	padding-right: 0px;
-	padding-left: 10px;
-   	padding-top: 8px;
-	overflow-x: hidden;
-	border-top: 1px solid #DDD;
-	border-bottom: 0px;
-	-webkit-border-image: -webkit-linear-gradient(left, #F3F0E3, #DDD, #F3F0E3) 1 0 100%;
-	-moz-border-image: -moz-linear-gradient(left, #F3F0E3, #DDD, #F3F0E3) 1 0 100%;
-	border-image: linear-gradient(left, #F3F0E3, #DDD, #F3F0E3) 1 0 100%;
-	width: 15%;
-	color:black;
+    padding-right: 0px;
+    padding-left: 10px;
+    padding-top: 8px;
+    overflow-x: hidden;
+    border-top: 1px solid #DDD;
+    border-bottom: 0px;
+    -webkit-border-image: -webkit-linear-gradient(left, #F3F0E3, #DDD, #F3F0E3) 1 0 100%;
+    -moz-border-image: -moz-linear-gradient(left, #F3F0E3, #DDD, #F3F0E3) 1 0 100%;
+    border-image: linear-gradient(left, #F3F0E3, #DDD, #F3F0E3) 1 0 100%;
+    width: 15%;
+    color: black;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    order-radius: 10px;
+    -webkit-box-shadow: 0 0 20px rgba(0,0,0,0.3), 0 3px 50px rgba(0,0,0,0.2);
+    -moz-box-shadow: 0 0 20px rgba(0,0,0,0.3),0 3px 50px rgba(0,0,0,0.2);
+    -ms-box-shadow: 0 0 20px rgba(0,0,0,0.3),0 3px 50px rgba(0,0,0,0.2);
+    -o-box-shadow: 0 0 20px rgba(0,0,0,0.3),0 3px 50px rgba(0,0,0,0.2);
+    box-shadow: 0 0 20px rgba(0,0,0,0.3), 0 3px 50px rgba(0,0,0,0.2);
+    background: #FAFAFA;
+    min-height: -webkit-fill-available;
 }
 
 #footer {
