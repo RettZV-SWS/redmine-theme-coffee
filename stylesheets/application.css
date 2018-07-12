@@ -90,7 +90,7 @@ body {
 	height: auto;
 	padding: 100px 0px 0px;
         background: url(../images/header_redmine.png) no-repeat 0px 60%;
-	background-size: auto;
+	background-size: 100%;
 }
 
 
